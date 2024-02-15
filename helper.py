@@ -4,7 +4,6 @@ import streamlit as st
 import cv2
 import numpy as np
 from pytube import YouTube
-from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 
 import settings
 
